@@ -1,10 +1,14 @@
+# First Contributions
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+
+<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png" alt="join slack team">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
 
 'tis hard. 'tis always hard th' first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted t' simplify th' way new open-source contributors learn & contribute fer th' first time.
 
@@ -12,7 +16,8 @@ Readin' tales & watchin' tutorials can help, but wha''s better than actually doi
 
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.](#Tutorials-Usin'-Other-Tools)*
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+![fork this repository](https://firstcontributions.github.io/assets/Readme/fork.png)
+
 
 If ye don't 'ave git on yer machine, [install it](https://help.github.com/articles/set-up-git/).
 
@@ -109,7 +114,7 @@ Now submit th' pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be mergin' all yer changes into th' master branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
+Soon I'll be mergin' all yer changes into th' main branch o' this project. Ye will get a notification email once th' changes 'ave been merged.
 
 ## Where t' go from here?
 
